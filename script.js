@@ -21,27 +21,27 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Mr.Siro",
-		name: "Lắng Nghe Nước Mắt",
-		url: "https://docs.google.com/uc?export=download&id=1Ecg3BZ1CItVsfusAnykh1MfaML4SNhT-",
-		picture: "https://avatar-nct.nixcdn.com/song/2018/05/06/5/1/b/4/1525584753612_640.jpg"
+		artist: "BGM Maker",
+		name: "【泣けるサントラ】美しく悲しいピアノ音楽【作業用・睡眠用BGM】癒しの音楽",
+		url: "https://docs.google.com/uc?export=download&id=1wk8sphW0f8uMMZYhaW1oct7xD9-GoAhs",
+		picture: "https://i.ytimg.com/vi/zpJzzQ_DGjQ/maxresdefault.jpg"
 	}, {
-    artist: "Hà Anh Tuấn",
+    artist: "BGM Maker",
     name: "Tháng Tư Là Lời Nói Dối Của Em",
     url: "https://docs.google.com/uc?export=download&id=1D8e6YTLNHDEooxq_VbxP3vScyOcm8QHm",
     picture: "https://avatar-nct.nixcdn.com/song/2017/09/22/1/a/3/6/1506063956390_640.jpg"
 }, {
-    artist: "Tino",
+    artist: "BGM Maker",
     name: "Ừ Có Anh Đây",
     url: "https://docs.google.com/uc?export=download&id=1emYz8dFA0a0AwtVZGiMqk9_LV9USvEC8",
     picture: "https://photo-zmp3.zadn.vn/covers/0/4/047305f465f0aa64c22ed49787b02548_1510199251.jpg"
 }, {
-    artist: "Nguyễn Đình Vũ",
+    artist: "BGM Maker",
     name: "Chúng Ta Dừng Lại Ở Đây Thôi",
     url: "https://docs.google.com/uc?export=download&id=1sCCIGG-lWUkibZg8SeUYBkp6mvGfF655",
     picture: "https://avatar-nct.nixcdn.com/song/2019/09/26/a/a/9/f/1569463314685_640.jpg"
 }, {
-    artist: "Dình Dũng",
+    artist: "BGM Maker",
     name: "Sai Lầm Của Anh",
     url: "https://docs.google.com/uc?export=download&id=1rxfB1BUGYbInBzBoqeBMwvILYBJOS-R-",
     picture: "https://avatar-nct.nixcdn.com/song/2019/10/21/4/6/1/e/1571623691373_640.jpg"

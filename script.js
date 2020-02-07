@@ -37,14 +37,9 @@ $(function()
     picture: "https://i.ytimg.com/vi/0GuC7TxvI1M/maxresdefault.jpg"
 }, {
     artist: "BGM Maker",
-    name: "Chúng Ta Dừng Lại Ở Đây Thôi",
-    url: "https://docs.google.com/uc?export=download&id=1sCCIGG-lWUkibZg8SeUYBkp6mvGfF655",
-    picture: "https://avatar-nct.nixcdn.com/song/2019/09/26/a/a/9/f/1569463314685_640.jpg"
-}, {
-    artist: "BGM Maker",
-    name: "Sai Lầm Của Anh",
-    url: "https://docs.google.com/uc?export=download&id=1rxfB1BUGYbInBzBoqeBMwvILYBJOS-R-",
-    picture: "https://avatar-nct.nixcdn.com/song/2019/10/21/4/6/1/e/1571623691373_640.jpg"
+    name: "あの夏を思い出す、ちょっと切ない音楽【ピアノBGM】作ってみた #1",
+    url: "https://docs.google.com/uc?export=download&id=1eBVzc3BRi9DuvCKYeGMWfhCOK1rJKn3P",
+    picture: "https://i.ytimg.com/vi/PJFvJj1-wSY/maxresdefault.jpg"
 }];
 	
 	function shuffle(a) {

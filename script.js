@@ -27,9 +27,9 @@ $(function()
 		picture: "https://i.ytimg.com/vi/zpJzzQ_DGjQ/maxresdefault.jpg"
 	}, {
     artist: "BGM Maker",
-    name: "Tháng Tư Là Lời Nói Dối Của Em",
-    url: "https://docs.google.com/uc?export=download&id=1D8e6YTLNHDEooxq_VbxP3vScyOcm8QHm",
-    picture: "https://avatar-nct.nixcdn.com/song/2017/09/22/1/a/3/6/1506063956390_640.jpg"
+    name: "【冬に聴きたい、癒しのBGM】冷えた心がほっこり暖まりそうな音楽",
+    url: "https://docs.google.com/uc?export=download&id=1OnsbqaQVhp6NFK2wajqzd9XxlOd_KGjo",
+    picture: "https://i.ytimg.com/vi/kSbbyfESC4Y/maxresdefault.jpg"
 }, {
     artist: "BGM Maker",
     name: "Ừ Có Anh Đây",

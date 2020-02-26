@@ -27,6 +27,11 @@ $(function()
 		picture: "https://i.ytimg.com/vi/zpJzzQ_DGjQ/maxresdefault.jpg"
 	}, {
     artist: "BGM Maker",
+    name: "神舞曲【オーケストラshort ver.】美しく切ない、ノスタルジックな音楽",
+    url: "https://docs.google.com/uc?export=download&id=1b5S-6czcqwFTfMb4xCeMdyLFQ9Tb44FP",
+    picture: "https://i.ytimg.com/vi/OhWYFjAur8I/maxresdefault.jpg"
+}, {
+    artist: "BGM Maker",
     name: "【冬に聴きたい、癒しのBGM】冷えた心がほっこり暖まりそうな音楽",
     url: "https://docs.google.com/uc?export=download&id=1OnsbqaQVhp6NFK2wajqzd9XxlOd_KGjo",
     picture: "https://i.ytimg.com/vi/kSbbyfESC4Y/maxresdefault.jpg"
